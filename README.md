@@ -19,3 +19,7 @@ This is the reference repository for our group's progress on [Teach Yourself Com
 - **Do** Exercises From _SICP_
   - [1.1 - 1.5](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.6)
   - [1.6 - 1.8](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.7)
+
+#### Meeting 1 Notes and Solutions
+
+- **[Solutions](exercises/meeting-01.scm)**
